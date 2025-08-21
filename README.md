@@ -1,7 +1,7 @@
-NAME:PIYUSH KUMAR
+NAME : PIYUSH KUMAR
 
 REG NO.:212223220075
-# Led-control-using-Arduino
+# EXP 1: Led control using Arduino
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
 
@@ -98,5 +98,6 @@ OFF
 
 
 ## RESULT
-To design and implement a system for LED control using an Arduino microcontroller and a push button has successfully executed.
+Designed and implemented a system for LED control using an Arduino microcontroller and a push button.
+
 
