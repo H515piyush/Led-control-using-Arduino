@@ -1,5 +1,7 @@
-# Led-control-using-Arduino
+NAME:PIYUSH KUMAR
 
+REG NO.:212223220075
+# Led-control-using-Arduino
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
 
@@ -59,9 +61,7 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 
-<img width="1920" height="1080" alt="Screenshot 2025-08-21 084808" src="https://github.com/user-attachments/assets/0af0ff36-15cf-45d8-a821-5dd11f4fc093" />
-
-
+![WhatsApp Image 2025-08-21 at 09 02 37_e141588b](https://github.com/user-attachments/assets/25b47d9e-d160-4b46-a7db-5bb66cdc2762)
 
 
 ## PROGRAM
