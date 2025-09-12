@@ -1,11 +1,12 @@
-NAME : PIYUSH KUMAR
-
-REG NO.:212223220075
+## NAME : PIYUSH KUMAR
+## REG NO.:212223220075
 # EXP 1: Led control using Arduino
 ## AIM
+
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
 
 ## COMPONENTS REQUIRED
+
 Arduino </br>
 Led </br>
 Resistance </br>
@@ -14,6 +15,7 @@ Bread board </br>
 Jumber wire </br>
 
 ## PROCEDURE
+
 Step 1 Connect all the componets as per the circut diagram </br>
 Step 2 Open the Arduino IDE </br>
 Step 3 Go to file and select the new file option </br>
@@ -61,8 +63,7 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 
-![WhatsApp Image 2025-08-21 at 09 02 37_e141588b](https://github.com/user-attachments/assets/25b47d9e-d160-4b46-a7db-5bb66cdc2762)
-
+<img width="1162" height="822" alt="image" src="https://github.com/user-attachments/assets/240b755a-92a6-4270-811e-bdae72a598a6" />
 
 ## PROGRAM
 ~~~
@@ -94,8 +95,6 @@ ON
 
 OFF
 <img width="1309" height="813" alt="Screenshot 2025-08-21 084229" src="https://github.com/user-attachments/assets/1f52a9d7-e37a-4584-9d41-cc86143e95f5" />
-
-
 
 ## RESULT
 Designed and implemented a system for LED control using an Arduino microcontroller and a push button.
